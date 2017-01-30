@@ -2,10 +2,11 @@
   "description": "Show the data find by FaceBook in photos",
   "manifest_version": 2,
   "name": "FB Photo Info",
-  "version": "1.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/mte90/fb-photi-info",
   "icons": {
-    "48": "icons/48.png"
+    "48": "icons/48.png",
+    "128": "icons/128.png"
   },
   "content_scripts": [
     {
